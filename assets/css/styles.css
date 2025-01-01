@@ -1270,6 +1270,7 @@ li .fa {
   margin-left: 10px;
 }
 
+
 .mh-rtl .mh-blog-post-info ul li strong {
   margin-left: 6px;
 }
@@ -1555,12 +1556,20 @@ li .fa {
   margin-right: 15px;
   display: inline-block;
 }
+.mh-home .mh-header-info ul li .fab {
+  margin-right: 15px;
+  display: inline-block;
+}
 
 .mh-home .mh-header-info ul li address {
   display: inline-block;
 }
 
 .mh-home .mh-header-info ul li:hover .fa {
+  color: #091c5a;
+}
+
+.mh-home .mh-header-info ul li:hover .fab {
   color: #091c5a;
 }
 
